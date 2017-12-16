@@ -14,11 +14,13 @@
   {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
 	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
 
-  <!-- https://developers.facebook.com/docs/sharing/webmasters#basic -->
-  <meta property="og:image" content="{{ site.touch_icon }}">
+  <!-- http://opengraphprotocol.org -->
   <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ site.url }}">
   <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="{{ site.touch_icon }}">
+
 
 </head>
 <body>

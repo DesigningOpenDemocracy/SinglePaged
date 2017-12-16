@@ -17,9 +17,9 @@ markdown: kramdown
 title:       "Designing Open Democracy"
 keywords:    "Democracy, edemocracy, voting, opensource, liquid democracy, delegative democracy, sortition"
 description: "This is a group for any tech professionals or political experts (or ordinary citizens) interested in discussing in a detailed way the potential opportunities for reforming existing democratic institutions"
-source_link: "https://github.com/DesigningOpenDemocracy/DesigningOpenDemocracy.github.io"
-favicon:     "img/dodlogo.ico"
-touch_icon:  "img/dodlogo.png"
+source_link: "http://designingopendemocracy.com/"
+favicon:     "http://designingopendemocracy.com/img/dodlogo.ico"
+touch_icon:  "http://designingopendemocracy.com/img/dodlogo.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 

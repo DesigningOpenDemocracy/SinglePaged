@@ -11,44 +11,37 @@ If you have any questions directly related to us that cannot be answered in our 
 
 * Email: [contact@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
 
+
 ## The Team
 
 The core organising team members is **Brian Khuu**, **Simon Gnieslaw**, **Nick Merange** and **Alexar Pendashteh**.
 
 We also have members from various political parties and companies who we often consult for specific updates about various democracy related projects of interests. As well as to collaborate on how to best assist them in achieving a better democracy.
 
-A few examples of groups we are in contact with are shown below:
-
-![Logo List Of Current Democracy Organizations](img/orgswemonitor.png)
-
-If you need any assistance in locating democracy experts like cooperatives or voting security, etc... just shoot us an email.
-
 
 ### Brian Khuu
 
-* Meeting Organiser
-* Podcast Host
+Meeting Organiser and Podcast Host
 
 * Email: [briankhuu@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
 
 
 ### Simon Gnieslaw
 
-* Website
+Website Manager
 
 * Email: [simongnieslaw@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
 
 
 ### Nick Merange
 
-* Research
+Democracy Groups Researcher
 
 * Email: [nickmerange@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
 
 
 ### Alexar Pendashteh
 
-* Meeting Organiser
+Meeting Organiser
 
 * Email: [alexarpendashteh@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
-

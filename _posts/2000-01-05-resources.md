@@ -23,5 +23,5 @@ Flux is a political party that internally uses issue-based direct democracy (IBD
 
 Designing Open Democracy had a podcast episode with Ben Ballingall, Victoria representative of Flux Party. [Click to listen to this podcast episode which was recorded on 2020-02-11 (Apple Podcast)](https://podcasts.apple.com/au/podcast/talk-ben-ballingall-about-flux-party-issue-based-direct/id1492656241?i=1000465446730)
 
-* Website: https://voteflux.org/
-
+* Main Website: [https://voteflux.org/](https://voteflux.org/)
+* Wikipedia: [https://en.wikipedia.org/wiki/Flux_(political_party)](https://en.wikipedia.org/wiki/Flux_(political_party))

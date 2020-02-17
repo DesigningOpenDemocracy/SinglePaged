@@ -22,3 +22,33 @@ A few examples of groups we are in contact with are shown below:
 ![Logo List Of Current Democracy Organizations](img/orgswemonitor.png)
 
 If you need any assistance in locating democracy experts like cooperatives or voting security, etc... just shoot us an email.
+
+
+### Brian Khuu
+
+* Meeting Organiser
+* Podcast Host
+
+* Email: [briankhuu@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
+
+
+### Simon Gnieslaw
+
+* Website
+
+* Email: [simongnieslaw@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
+
+
+### Nick Merange
+
+* Research
+
+* Email: [nickmerange@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
+
+
+### Alexar Pendashteh
+
+* Meeting Organiser
+
+* Email: [alexarpendashteh@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
+

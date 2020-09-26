@@ -26,12 +26,6 @@ Meeting Organiser and Podcast Host
 * Email: [briankhuu@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
 
 
-### Simon Gnieslaw
-
-Website Manager
-
-* Email: [simongnieslaw@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
-
 
 ### Nick Merange
 
@@ -45,3 +39,10 @@ Democracy Groups Researcher
 Meeting Organiser
 
 * Email: [alexarpendashteh@designingopendemocracy.com](mailto:contact+website@designingopendemocracy.com?subject=Website)
+
+
+
+
+<!--
+### Simon Gnieslaw
+  --->
